@@ -1,0 +1,50 @@
+body {
+    background-color: #000;
+}
+
+/* header */
+
+header{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.8) 95%), url(../../public/assets/bg.jpg) 55% 68%;
+    height: 100vh;
+    
+}
+
+/* logo */
+#logo{
+    width: 148px; 
+    height: 40px;
+}
+
+.txt-heading{
+    font-size: 3rem;
+}
+
+
+/* Section-1 tv-video */
+.video-tv{
+    position: absolute;
+    top:116px;
+    left: 126px;
+    z-index: -2;
+    
+}
+
+/* Section-2 box */
+.box{
+    height: 100px;
+    width: 340px;
+    position: absolute;
+    top: 370px;
+    left: 200px;
+    
+}
+
+/* Section-3 device-video */
+.video-device{
+    position: absolute;
+    top:51px;
+    left: 165px;
+    z-index: -2;
+
+}

@@ -1,0 +1,18 @@
+.banner_img{
+    width: 91em;
+    margin: 5px 10px;
+}
+
+.banner_heading{
+    margin-left: 0em;
+}
+
+.banner_detail{
+    margin-left: 3em;
+    font-size: 18px;
+    /* width: 75%; */
+    color: white;
+    margin-top: 25px;
+    /* justify-content: left; */
+    /* width: 50px; */
+}
