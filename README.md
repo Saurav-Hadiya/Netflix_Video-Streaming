@@ -10,7 +10,6 @@
 <h3>Technologies Used</h3>
 <ul>
   <li>Frontend: React.js, HTML, CSS, Bootstrap</li>
-  <li>Backend: Node.js, Express.js</li>
-  <li>Database: MongoDB</li>
   <li>APIs: TMDB API for movie and TV show data</li>
+  <li>YouTube React.js Library: Integrates YouTube videos for seamless video streaming within the application.</li>
 </ul>
